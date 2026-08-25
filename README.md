@@ -16,32 +16,28 @@
 
 ## 🛠️ Technical Arsenal
 
-<div align="center">
-  
-  **Languages & Frameworks** <br/>
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-  
-  <br/>
-  
-  **Blockchain & Web3** <br/>
-  ![Hedera](https://img.shields.io/badge/Hedera-%23222222.svg?style=flat-square&logo=hedera&logoColor=white)
-  
-  <br/>
-  
-  **Design, Media & OS** <br/>
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-  ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-db1a2c?style=flat-square&logo=davinciresolve&logoColor=white)
-  ![Fedora](https://img.shields.io/badge/Fedora-%23294172.svg?style=flat-square&logo=fedora&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=flat-square&logo=kali-linux&logoColor=white)
+<h3>Programming Languages</h3>
+<hr>
 
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" alt="Java" /> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="45" alt="Kotlin" /> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python" /> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" /> 
 
-<br/>
+<br><br>
+
+<h3>Technologies I Use</h3>
+<hr>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="45" alt="Angular" /> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="45" alt="Flutter" /> &nbsp; 
+<img src="https://cryptologos.cc/logos/hedera-hbar-logo.svg" height="45" alt="Hedera" /> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="45" alt="Figma" /> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="45" alt="Fedora" /> &nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="45" alt="Kali Linux" /> &nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/DaVinci_Resolve_Studio.png" height="45" alt="DaVinci Resolve" />
+
+<br><br>
 
 ## 🚀 Featured Projects
 
@@ -63,8 +59,8 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=2563EB" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ved0019&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ved0019&theme=transparent&hide_border=true&title_color=2563EB" alt="GitHub Streak" />
 </div>
 
 ---
