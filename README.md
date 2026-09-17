@@ -1,71 +1,115 @@
 <div align="center">
-  
-  # Hi there, I'm Ved Prakash Yadav 👋
-  
-  **Full Stack Development Learner | VIT-AP | Blockchain Enthusiast**
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](YOUR_PORTFOLIO_URL)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
-
-  *Dedicated software developer translating complex requirements into scalable, well-architected code. Currently expanding my expertise into Blockchain technology and Smart Contracts.*
-
+<table>
+<tr>
+  <td valign="middle" align="center">
+    <h1 style="font-size: 2em;">HELLO, WORLD! 👋</h1>
+  </td>
+</tr>
+</table>
 </div>
 
-<br/>
-
-## 🛠️ Technical Arsenal
-
-<h3>Programming Languages</h3>
-<hr>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" alt="Java" /> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="45" alt="Kotlin" /> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python" /> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" /> 
-
-<br><br>
-
-<h3>Technologies I Use</h3>
-<hr>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="45" alt="Angular" /> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="45" alt="Flutter" /> &nbsp; 
-<img src="https://cryptologos.cc/logos/hedera-hbar-logo.svg" height="45" alt="Hedera" /> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="45" alt="Figma" /> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="45" alt="Fedora" /> &nbsp; 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="45" alt="Kali Linux" /> &nbsp; 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/DaVinci_Resolve_Studio.png" height="45" alt="DaVinci Resolve" />
-
-<br><br>
-
-## 🚀 Featured Projects
-
-*   **[Project Name 1](Link to Repo)** - A brief 1-2 sentence description of what the project does, the problem it solves, and the tech stack used (e.g., *Built with Angular and Java*).
-*   **[Project Name 2](Link to Repo)** - A brief 1-2 sentence description highlighting your specific contribution or a cool technical feature.
-
-<br/>
-
-## 💼 Experience & Certifications
-
-*   **Hedera Hashgraph Certified Developer**
-    *   Successfully completed the intensive Hedera Certified Developer Program.
-    *   *Credentials:* Hedera Certified Foundation & Hedera Certified Developer Associate.
-*   **India Space Academy | Internship**
-    *   Conducted research and applied project work focusing on space science, advanced technology, and Vertical Take-Off and Landing (VTOL) control systems.
-
-<br/>
-
-
-## 📊 GitHub Activity
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ved0019&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB" alt="GitHub Stats" /> 
-  <img src="https://streak-stats.demolab.com/?user=Ved0019&theme=transparent&hide_border=true&title_color=2563EB" alt="GitHub Streak" />
-</div>
-
-
-
----
 <div align="center">
-  <i>I am always eager to collaborate on innovative projects. Let's connect and build something impactful!</i>
+
+<h2>📝 Developer Profile</h2>
+
+<h3> I'm <b>Ved Prakash Yadav</b>, a <b>Full Stack Development Learner</b> at <b>VIT-AP</b>, passionate about building robust, end-to-end applications. I am highly motivated to translate complex requirements into scalable, well-architected code, and I am currently expanding my expertise into <b>Blockchain</b> technology. </h3>
+
+</div>
+
+<hr>
+
+<div align="center">
+<table width="100%">
+<tr>
+  <td valign="top" width="50%">
+    <h2>⚡ Current Focus</h2>
+    <ul>
+      <li>Full Stack Architecture</li>
+      <li>End-to-End Application Building</li>
+      <li>Backend & Enterprise Systems</li>
+      <li>Client-Side Logic & UI</li>
+    </ul>
+  </td>
+
+  <td valign="top" width="50%">
+    <h2>🌱 Currently Learning</h2>
+    <ul>
+      <li>Blockchain Development</li>
+      <li>Smart Contract Implementation</li>
+      <li>Web3 Technologies</li>
+      <li>Decentralized Applications (dApps)</li>
+    </ul>
+  </td>
+</tr>
+</table>
+</div>
+
+<hr>
+
+<div align="center">
+
+<h2>🏅 Experience & Certifications</h2>
+
+<table width="100%">
+<tr>
+  <td valign="top">
+    <ul>
+      <li><b>Internship: India Space Academy</b> — Conducted research and applied project work focusing on space science, advanced technology, and Vertical Take-Off and Landing (VTOL) control systems.</li>
+      
+  
+  </td>
+</tr>
+</table>
+</div>
+
+<hr>
+
+<div align="center">
+
+<h2>🌐 Let's Connect</h2>
+
+<div style="border: 2px solid #02569B; border-radius: 15px; background-color: #f0f8ff; padding: 20px; max-width: 700px; display: inline-block; text-align: center; font-size: 1.2em; line-height: 1.8;">
+  
+📧 <b>Email:</b> <a href="mailto:YOUR_EMAIL_HERE">Reach out to me!</a><br>
+💼 <b>LinkedIn:</b> <a href="YOUR_LINKEDIN_URL_HERE">Connect on LinkedIn</a><br>
+💻 <b>GitHub:</b> <a href="YOUR_GITHUB_URL_HERE">Check out my Repos</a>
+
+</div>
+
+</div>
+
+<br>
+<hr>
+
+<div align="center">
+
+  <h2>💫 Technical Arsenal</h2>
+
+  <h3>🖥️ Programming Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,rust,matlab,bash,powershell" />
+  </p>
+
+  <h3>🏗️ Frameworks & Libraries</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi,django,flask,react,nextjs,tailwind,d3" />
+  </p>
+
+  <h3>🗄️ Databases</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase" />
+  </p>
+
+  <h3>☁️ DevOps & Cloud</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=,vercel" />
+  </p>
+
+  <h3>🛠️ Tools & Platforms</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,raspberrypi,anaconda,vscode,visualstudio,pycharm,arduino" />
+  </p>
+
+</div>
+
 </div>
