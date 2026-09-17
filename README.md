@@ -52,11 +52,11 @@
 
 <table width="100%">
 <tr>
-  <td valign="top">
+  <td valign="top" align="left">
     <ul>
       <li><b>Internship: India Space Academy</b> — Conducted research and applied project work focusing on space science, advanced technology, and Vertical Take-Off and Landing (VTOL) control systems.</li>
-      
-  
+      <li><b>Certification: Hedera Hashgraph Certified Developer</b> — Successfully completed the intensive Hedera developer program (Credentials: HCF & HCDA).</li>
+    </ul>
   </td>
 </tr>
 </table>
@@ -87,12 +87,12 @@
 
   <h3>🖥️ Programming Languages</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,rust,matlab,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,py,c,cpp,js,ts,rust,matlab,bash,powershell" />
   </p>
 
   <h3>🏗️ Frameworks & Libraries</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi,django,flask,react,nextjs,tailwind,d3" />
+    <img src="https://skillicons.dev/icons?i=angular,flutter,pytorch,tensorflow,sklearn,opencv,fastapi,django,flask,react,nextjs,tailwind,d3" />
   </p>
 
   <h3>🗄️ Databases</h3>
@@ -102,14 +102,12 @@
 
   <h3>☁️ DevOps & Cloud</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=,vercel" />
+    <img src="https://skillicons.dev/icons?i=vercel" />
   </p>
 
   <h3>🛠️ Tools & Platforms</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,raspberrypi,anaconda,vscode,visualstudio,pycharm,arduino" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,githubactions,raspberrypi,anaconda,vscode,visualstudio,pycharm,arduino" />
   </p>
-
-</div>
 
 </div>
